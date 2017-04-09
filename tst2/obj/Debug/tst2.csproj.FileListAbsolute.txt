@@ -1,0 +1,9 @@
+c:\users\mipma\documents\visual studio 2017\Projects\tst2\tst2\bin\Debug\tst2.exe.config
+c:\users\mipma\documents\visual studio 2017\Projects\tst2\tst2\bin\Debug\tst2.exe
+c:\users\mipma\documents\visual studio 2017\Projects\tst2\tst2\bin\Debug\tst2.pdb
+c:\users\mipma\documents\visual studio 2017\Projects\tst2\tst2\obj\Debug\tst2.Form1.resources
+c:\users\mipma\documents\visual studio 2017\Projects\tst2\tst2\obj\Debug\tst2.Properties.Resources.resources
+c:\users\mipma\documents\visual studio 2017\Projects\tst2\tst2\obj\Debug\tst2.csproj.GenerateResource.Cache
+c:\users\mipma\documents\visual studio 2017\Projects\tst2\tst2\obj\Debug\tst2.exe
+c:\users\mipma\documents\visual studio 2017\Projects\tst2\tst2\obj\Debug\tst2.pdb
+c:\users\mipma\documents\visual studio 2017\Projects\tst2\tst2\obj\Debug\tst2.csprojResolveAssemblyReference.cache
